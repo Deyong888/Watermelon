@@ -2808,8 +2808,8 @@
         }
       ],
       "_useOriginalSize": false,
-      "_string": "游 戏 结 束",
-      "_N$string": "游 戏 结 束",
+      "_string": "Game Over",
+      "_N$string": "Game Over",
       "_fontSize": 70,
       "_lineHeight": 80,
       "_N$horizontalAlign": 1,
@@ -2861,8 +2861,8 @@
         }
       ],
       "_useOriginalSize": false,
-      "_string": "点击查看成绩",
-      "_N$string": "点击查看成绩",
+      "_string": "Click to View Grades",
+      "_N$string": "Click to View Grades",
       "_N$horizontalAlign": 1,
       "_N$verticalAlign": 1
     },
